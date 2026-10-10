@@ -1,14 +1,14 @@
 ```text
      _     _     _ _____ ______ __     shihao@dsh1376
-  __| |___| |__ / |___ /|___  // /_    -----------------------------------
- / _` / __| '_ \| | |_ \   / /| '_ \   role    : CS Undergrad @ Essex (UK)
+  __| |___| |__ / |___ /|___  // /_    ----------------------------------
+ / _` / __| '_ \| | |_ \   / /| '_ \   role    : CS Graduate @ Essex (UK)
 | (_| \__ \ | | | |___) | / / | (_) |  focus   : AI Infra & LLM Serving
  \__,_|___/_| |_|_|____/ /_/   \___/   contact : sh.deng.cs@gmail.com
 ```
 
 > Understanding how LLMs are built, served, and optimized by re-implementing core systems from scratch and building small, focused tools along the way.
 
-I am a Computer Science undergraduate at the University of Essex in the UK, focusing on the **AI infrastructure** stack—particularly LLM inference engines, serving systems, and runtime optimization.
+I am a Computer Science graduate from the University of Essex, focusing on the **AI infrastructure** stack—particularly LLM inference engines, serving systems, and runtime optimization.
 
 ---
 

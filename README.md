@@ -14,9 +14,9 @@ I am a Computer Science graduate from the University of Essex, focusing on the *
 
 ## Selected Projects
 
-- 🐍 **[SGLite](https://github.com/D1376/SGLite)**: A lightweight exploration of SGLang internals, designed to be minimal, readable, and easy to understand.
-- 🦀 **[llmpk](https://github.com/D1376/llmpk)**: A terminal TUI for comparing LLMs across leaderboards. It pulls rankings from Artificial Analysis and Arena, covering text, vision, code, image, and video models with a single keypress. Built with Rust and ratatui. No API keys, no browser required.
-- ⚙️ **[dotfiles](https://github.com/D1376/dotfiles)**: My Neovim and terminal setup.
+- **[SGLite](https://github.com/dsh1376/SGLite)** — A minimal, hackable exploration of SGLang internals, built to make modern LLM serving mechanics readable and easy to understand.
+- **[llmpk](https://github.com/dsh1376/llmpk)** — A terminal TUI (`ratatui` / Rust) for comparing LLMs across Artificial Analysis and Arena leaderboards—covering text, vision, code, image, and video models in a single keypress without API keys or a browser.
+- **[dotfiles](https://github.com/dsh1376/dotfiles)** — My personal development environment centered around Neovim, tmux, and terminal-first workflows.
 
 ---
 

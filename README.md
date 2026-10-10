@@ -6,12 +6,6 @@
  \__,_|___/_| |_|_|____/ /_/   \___/   contact : sh.deng.cs@gmail.com
 ```
 
-> Understanding how LLMs are built, served, and optimized by re-implementing core systems from scratch and building small, focused tools along the way.
-
-I am a Computer Science graduate from the University of Essex, focusing on the **AI infrastructure** stack—particularly LLM inference engines, serving systems, and runtime optimization.
-
----
-
 ## Selected Projects
 
 - **[SGLite](https://github.com/dsh1376/SGLite)** — A minimal, hackable exploration of SGLang internals, built to make modern LLM serving mechanics readable and easy to understand.

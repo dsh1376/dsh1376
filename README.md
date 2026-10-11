@@ -6,7 +6,7 @@
  \__,_|___/_| |_|_|____/ /_/   \___/   contact : sh.deng.cs@gmail.com
 ```
 
-## Selected Projects
+## Projects
 
 - **[SGLite](https://github.com/dsh1376/SGLite)** — A minimal, hackable exploration of SGLang internals, built to make modern LLM serving mechanics readable and easy to understand.
 - **[llmpk](https://github.com/dsh1376/llmpk)** — A terminal TUI (`ratatui` / Rust) for comparing LLMs across Artificial Analysis and Arena leaderboards—covering text, vision, code, image, and video models in a single keypress without API keys or a browser.

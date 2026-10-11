@@ -1,9 +1,9 @@
 ```text
      _     _     _ _____ ______ __     dsh1376@localhost
-  __| |___| |__ / |___ /|___  // /_    ----------------------------------
- / _` / __| '_ \| | |_ \   / /| '_ \   role    : CS Graduate @ Essex (UK)
-| (_| \__ \ | | | |___) | / / | (_) |  focus   : AI Infra & LLM Serving
- \__,_|___/_| |_|_|____/ /_/   \___/   contact : sh.deng.cs@gmail.com
+  __| |___| |__ / |___ /|___  // /_    ------------------------------------
+ / _` / __| '_ \| | |_ \   / /| '_ \   education : CS Graduate @ Essex (UK)
+| (_| \__ \ | | | |___) | / / | (_) |  focus     : AI Infra & LLM Serving
+ \__,_|___/_| |_|_|____/ /_/   \___/   contact   : sh.deng.cs@gmail.com
 ```
 
 ## Projects

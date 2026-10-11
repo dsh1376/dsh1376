@@ -8,7 +8,7 @@
 
 ## Projects
 
-- **[SGLite](https://github.com/dsh1376/SGLite)** — A minimal, hackable exploration of SGLang internals.
+- **[SGLite](https://github.com/dsh1376/SGLite)** — A minimal, hackable SGLang-like LLM inference engine.
 - **[llmpk](https://github.com/dsh1376/llmpk)** — A terminal TUI (`ratatui` / Rust) for comparing LLMs across Artificial Analysis and Arena leaderboards—covering text, vision, code, image, and video models in a single keypress without API keys or a browser.
 - **[dotfiles](https://github.com/dsh1376/dotfiles)** — My personal development environment centered around Neovim, tmux, and terminal-first workflows.
 
